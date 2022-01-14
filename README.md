@@ -32,3 +32,12 @@ http://www.batteryrefill.com/laptops/toshiba/PA2490U.phtml
 
 https://support.dynabook.com/support/viewContentDetail?soid=107591
 
+
+
+https://www.manualslib.com/manual/490099/Toshiba-Tecra-500cdt.html
+
+https://ibm.retropc.se/manuals/Toshiba/Tecra/Toshiba%20Tecra%20500CS%20and%20500CDT%20-%20Maintenance%20Manual.pdf
+
+
+https://www.vogons.org/viewtopic.php?t=53971
+
