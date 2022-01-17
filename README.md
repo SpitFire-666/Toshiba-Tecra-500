@@ -21,6 +21,16 @@ http://www.soundcard-drivers.com/companies/1165.htm?o=2
 ![image](https://user-images.githubusercontent.com/38451588/149658189-5b4908ae-adc1-4a07-b025-26ac46b5cd7d.png)
 
 
+## Hard Drive (HDD)
+
+Connector(s):
+
+https://www.aliexpress.com/item/4001223920635.html
+
+https://au.mouser.com/ProductDetail/3M-Electronic-Solutions-Division/P50LE-050P1-R1-DA?qs=sGAEpiMZZMukxKgYRb08uCINFcdpzF42fLJ5JJziHsY=&countrycode=GB&currencycode=GBP
+
+https://www.vogons.org/viewtopic.php?f=46&t=83221
+
 
 ## InfraRed (IrDA)
 
@@ -73,5 +83,56 @@ https://www.manualslib.com/manual/490099/Toshiba-Tecra-500cdt.html
 https://ibm.retropc.se/manuals/Toshiba/Tecra/Toshiba%20Tecra%20500CS%20and%20500CDT%20-%20Maintenance%20Manual.pdf
 
 
+## Transferring filed/data
+- Track down the multibay floppy drive to insert the drivers and use some cardbus storage
+- Track down the multibay cd rom drive.
+- Null modem cable to serial file transfer(maybe with xmodem or some existent software, otherwise i will code a peer to peer serial file transfer)
+- IrDA(i will need another IrDA device to transfer file)
+- PCMCIA storage device that have the driver built in the windows installation(Windows 98 is currently installed).
+- Track down one HDD caddy and use it with some CF-IDE adapter.
+- DCC
+
+https://www.vogons.org/viewtopic.php?f=46&t=80959&p=959863&hilit=pcmcia%20sd#p959863
+
+OS drivers thanks to Ozzuneoj's thread. Then I happened to find mine on ebay right afterwards. Parallel Port Compact Flash card reader for very old PCs
+https://www.vogons.org/viewtopic.php?f=46&t=58779
+
+
 https://www.vogons.org/viewtopic.php?t=53971
 
+
+
+## BIOS
+
+http://www.minuszerodegrees.net/manuals/Toshiba/BIOS/Toshiba_bios.htm
+
+
+
+## Drivers
+
+USB/Mass storage
+
+Firstly, you need to install Windows 95 OSR 2.1 or 2.5 for USB support (info). Early releases of Windows 95 doesn't support USB.
+I recommend the XUSBSUPP driver either. It even supports Mass Storage.
+
+http://lonecrusader.x10host.com/files/XUSBSUPP.ZIP
+
+http://toastytech.com/files/cruzerwin95.html
+
+http://download.cnet.com/usb2-0-driver-for-win98-exe/3000-18493_4-151166.html
+
+http://www.wintricks.it/faq/usbpen98_6.html
+
+http://www.flashbay.ca/support/faq/windows98se-usb-drive-driver
+
+
+https://oemdrivers.com/usb-windows-98-98se-mass-storage-device-drivers
+
+https://www.raymond.cc/blog/how-to-install-usb-mass-storage-device-on-windows-98/
+
+
+
+## General CD-ROM stuff
+
+https://www.vogons.org/viewtopic.php?t=53631
+http://www.technical-assistance.co.uk/kb/usbmsd98.php
