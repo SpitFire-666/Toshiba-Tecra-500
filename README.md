@@ -119,13 +119,24 @@ https://www.vogons.org/viewtopic.php?t=53971
 
 ## BIOS
 
+### Accessing BIOS
+
+https://support.dynabook.com/support/viewContentDetail?contentId=627009
+
 http://www.minuszerodegrees.net/manuals/Toshiba/BIOS/Toshiba_bios.htm
+
+How to boot your Toshiba PC from CD-ROM, LAN, or diskette
+
+https://support.dynabook.com/support/viewContentDetail?soid=403623
 
 
 
 ## Drivers
 
+https://support.dynabook.com/support/driversOSResults?freeText=1073769784
+
 USB/Mass storage
+
 
 Firstly, you need to install Windows 95 OSR 2.1 or 2.5 for USB support (info). Early releases of Windows 95 doesn't support USB.
 I recommend the XUSBSUPP driver either. It even supports Mass Storage.
@@ -146,10 +157,6 @@ https://oemdrivers.com/usb-windows-98-98se-mass-storage-device-drivers
 https://www.raymond.cc/blog/how-to-install-usb-mass-storage-device-on-windows-98/
 
 
-## Booting
-
-https://support.dynabook.com/support/viewContentDetail?soid=403623
-
 
 ## General CD-ROM stuff
 
@@ -160,3 +167,5 @@ http://www.technical-assistance.co.uk/kb/usbmsd98.php
 ## Display
 
 https://archive.org/details/vexp13
+
+https://web.archive.org/web/20140905095056/http://www.dil.u-net.com/vexp.htm    
