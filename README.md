@@ -11,14 +11,16 @@
 
 ![image](https://user-images.githubusercontent.com/38451588/149657621-60c9f394-5c55-41ca-890a-5ab475a44670.png)
 
-
+![image](https://user-images.githubusercontent.com/38451588/149658189-5b4908ae-adc1-4a07-b025-26ac46b5cd7d.png)
 
 http://www.soundcard-drivers.com/companies/1165.htm?o=2
 
 
+## Specs
+
+https://support.dynabook.com/support/staticContentDetail?contentId=638383
 
 
-![image](https://user-images.githubusercontent.com/38451588/149658189-5b4908ae-adc1-4a07-b025-26ac46b5cd7d.png)
 
 
 ## Hard Drive (HDD)
@@ -32,11 +34,22 @@ https://au.mouser.com/ProductDetail/3M-Electronic-Solutions-Division/P50LE-050P1
 https://www.vogons.org/viewtopic.php?f=46&t=83221
 
 
+## Floppy Drive
+
+https://www.amazon.com/Toshiba-Floppy-PA2656U-Satellite-Notebook/dp/B000YAB7Y4
+
+![image](https://user-images.githubusercontent.com/38451588/149850901-f092a323-a848-45bf-a092-90f91c68b7cb.png)
+
+Toshiba Floppy Disk Drive FDD Module PA2656U for Toshiba Satellite 200, Satellite Pro 400, and Tecra 500 Series Notebook PCs
+
 ## InfraRed (IrDA)
 
 https://www.hpcfactor.com/support/cesd/c/0020.asp
 
 https://www.pocketpcfaq.com/wce/20/irda.htm
+
+
+https://flylib.com/books/en/2.166.1.221/1/
 
 https://support.dynabook.com/support/viewContentDetail?contentId=107570
 
