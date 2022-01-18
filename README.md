@@ -21,7 +21,8 @@ http://www.soundcard-drivers.com/companies/1165.htm?o=2
 https://support.dynabook.com/support/staticContentDetail?contentId=638383
 
 
-
+## Maintenance Manual
+http://www.minuszerodegrees.net/manuals/Toshiba/Tecra/Toshiba%20Tecra%20500CS%20and%20500CDT%20-%20Maintenance%20Manual.pdf
 
 ## Hard Drive (HDD)
 
@@ -96,7 +97,7 @@ https://www.manualslib.com/manual/490099/Toshiba-Tecra-500cdt.html
 https://ibm.retropc.se/manuals/Toshiba/Tecra/Toshiba%20Tecra%20500CS%20and%20500CDT%20-%20Maintenance%20Manual.pdf
 
 
-## Transferring filed/data
+## Transferring files/data
 - Track down the multibay floppy drive to insert the drivers and use some cardbus storage
 - Track down the multibay cd rom drive.
 - Null modem cable to serial file transfer(maybe with xmodem or some existent software, otherwise i will code a peer to peer serial file transfer)
