@@ -4,6 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/38451588/149658048-daef2626-1012-4c47-8db1-eed745b00b9b.png)
 
+![image](https://user-images.githubusercontent.com/38451588/149881415-819709ba-3d60-4094-ad4a-838a0388208a.png)
 
 
 ![image](https://user-images.githubusercontent.com/38451588/149657601-70517798-a660-44b8-a358-7ee701416e70.png)
@@ -145,8 +146,17 @@ https://oemdrivers.com/usb-windows-98-98se-mass-storage-device-drivers
 https://www.raymond.cc/blog/how-to-install-usb-mass-storage-device-on-windows-98/
 
 
+## Booting
+
+https://support.dynabook.com/support/viewContentDetail?soid=403623
+
 
 ## General CD-ROM stuff
 
 https://www.vogons.org/viewtopic.php?t=53631
 http://www.technical-assistance.co.uk/kb/usbmsd98.php
+
+
+## Display
+
+https://archive.org/details/vexp13
