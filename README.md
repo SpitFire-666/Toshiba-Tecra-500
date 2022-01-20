@@ -19,10 +19,11 @@ http://www.soundcard-drivers.com/companies/1165.htm?o=2
 
 ## Expansion
 
-EXPANSION SLOTS
+
 Two Stacked PC Card Slot2 Yes: CardBus & ZV Card Ready
 
 32-bit, 3.3V PC CardBus Support Yes
+
 16-bit, 5.0V PC Card Support Yes
 
 Internal Memory Slot (One only) Yes
