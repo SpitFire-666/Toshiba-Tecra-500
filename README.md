@@ -17,6 +17,17 @@
 http://www.soundcard-drivers.com/companies/1165.htm?o=2
 
 
+## Expansion
+
+EXPANSION SLOTS
+Two Stacked PC Card Slot2 Yes: CardBus & ZV Card Ready
+
+32-bit, 3.3V PC CardBus Support Yes
+16-bit, 5.0V PC Card Support Yes
+
+Internal Memory Slot (One only) Yes
+
+
 ## Specs
 
 https://support.dynabook.com/support/staticContentDetail?contentId=638383
@@ -34,6 +45,10 @@ https://www.aliexpress.com/item/4001223920635.html
 https://au.mouser.com/ProductDetail/3M-Electronic-Solutions-Division/P50LE-050P1-R1-DA?qs=sGAEpiMZZMukxKgYRb08uCINFcdpzF42fLJ5JJziHsY=&countrycode=GB&currencycode=GBP
 
 https://www.vogons.org/viewtopic.php?f=46&t=83221
+
+
+Will this work???
+![image](https://user-images.githubusercontent.com/38451588/150326390-4f35dc43-5863-46b4-8c6b-076c8c5fdecb.png)
 
 
 ## Floppy Drive
