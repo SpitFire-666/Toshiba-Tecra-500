@@ -23,6 +23,8 @@ http://www.soundcard-drivers.com/companies/1165.htm?o=2
 
 ![image](https://user-images.githubusercontent.com/38451588/151925641-3a0f9bfc-5c71-4b2f-ae00-cc4fbbbfe554.png)
 
+![image](https://user-images.githubusercontent.com/38451588/151953484-657acf3b-6f24-45c8-b0f7-136b653dfe98.png)
+
 
 ## Battery
 
@@ -60,9 +62,18 @@ http://www.minuszerodegrees.net/manuals/Toshiba/Tecra/Toshiba%20Tecra%20500CS%20
 
 ## Hard Drive (HDD)
 
-Connector(s):
 
-https://www.aliexpress.com/item/4001223920635.html
+### HDD Caddy:
+
+![image](https://user-images.githubusercontent.com/38451588/151952787-d9d5715d-c4bb-479d-9287-0418e7774859.png)
+
+
+### Caddy connector
+
+3M P50LE-050P1-R1-DA
+
+![image](https://user-images.githubusercontent.com/38451588/151953297-90c9c26b-9f57-4c43-bcf9-acea5736e11b.png)
+
 
 https://au.mouser.com/ProductDetail/3M-Electronic-Solutions-Division/P50LE-050P1-R1-DA?qs=sGAEpiMZZMukxKgYRb08uCINFcdpzF42fLJ5JJziHsY=&countrycode=GB&currencycode=GBP
 
