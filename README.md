@@ -190,6 +190,13 @@ How to boot your Toshiba PC from CD-ROM, LAN, or diskette
 https://support.dynabook.com/support/viewContentDetail?soid=403623
 
 
+### CMOS Battery
+
+- RTC Battery: Plugs into PJ11
+- Sub-Battery: Plugs into PJ502
+
+![image](https://user-images.githubusercontent.com/38451588/152062226-0042bca4-5f42-475a-ab98-804f77b05413.png)
+
 
 ## Drivers
 
