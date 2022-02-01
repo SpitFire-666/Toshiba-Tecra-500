@@ -17,6 +17,19 @@
 http://www.soundcard-drivers.com/companies/1165.htm?o=2
 
 
+## Memory (RAM)
+
+![image](https://user-images.githubusercontent.com/38451588/151925595-b2e8cefe-9549-4d37-ac09-46175a5fd46a.png)
+
+![image](https://user-images.githubusercontent.com/38451588/151925641-3a0f9bfc-5c71-4b2f-ae00-cc4fbbbfe554.png)
+
+
+## Battery
+
+![image](https://user-images.githubusercontent.com/38451588/151925693-c722db85-ce48-4d81-b485-0f2e43190a9d.png)
+
+
+
 ## Expansion
 
 
@@ -27,6 +40,14 @@ Two Stacked PC Card Slot2 Yes: CardBus & ZV Card Ready
 16-bit, 5.0V PC Card Support Yes
 
 Internal Memory Slot (One only) Yes
+
+
+## Audio
+
+![image](https://user-images.githubusercontent.com/38451588/151925735-75848efb-bd00-400a-a6d2-f17fec9782ed.png)
+
+
+![image](https://user-images.githubusercontent.com/38451588/151925777-6c0d9eed-4422-4693-9706-69416aab7bfd.png)
 
 
 ## Specs
@@ -185,3 +206,7 @@ http://www.technical-assistance.co.uk/kb/usbmsd98.php
 https://archive.org/details/vexp13
 
 https://web.archive.org/web/20140905095056/http://www.dil.u-net.com/vexp.htm    
+
+# Links
+
+https://www.youtube.com/watch?v=93tbciM-Bcs
