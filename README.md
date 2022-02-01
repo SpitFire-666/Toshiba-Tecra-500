@@ -31,6 +31,18 @@ http://www.soundcard-drivers.com/companies/1165.htm?o=2
 ![image](https://user-images.githubusercontent.com/38451588/151925693-c722db85-ce48-4d81-b485-0f2e43190a9d.png)
 
 
+## Mainboard
+
+![image](https://user-images.githubusercontent.com/38451588/151961051-eb9b20f4-f95b-499f-8c4a-e3501fa93734.png)
+
+
+## Keyboard
+
+![image](https://user-images.githubusercontent.com/38451588/151961132-72a09be2-504f-48d6-802d-f5412147e40f.png)
+
+![image](https://user-images.githubusercontent.com/38451588/151961165-1252ee45-0336-46ee-9d67-2436566dceda.png)
+
+
 
 ## Expansion
 
