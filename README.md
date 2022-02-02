@@ -19,6 +19,8 @@ http://www.soundcard-drivers.com/companies/1165.htm?o=2
 
 ## Memory (RAM)
 
+Standard with 16 MB of EDO (Extend Data Out) DRAM
+
 ![image](https://user-images.githubusercontent.com/38451588/151925595-b2e8cefe-9549-4d37-ac09-46175a5fd46a.png)
 
 ![image](https://user-images.githubusercontent.com/38451588/151925641-3a0f9bfc-5c71-4b2f-ae00-cc4fbbbfe554.png)
@@ -28,7 +30,7 @@ http://www.soundcard-drivers.com/companies/1165.htm?o=2
 
 ## Battery
 
-![image](https://user-images.githubusercontent.com/38451588/151925693-c722db85-ce48-4d81-b485-0f2e43190a9d.png)
+![image](https://user-images.githubusercontent.com/38451588/152088401-804caca0-79c4-4496-9f6d-cd3eb27878eb.png)
 
 
 ## Mainboard
@@ -81,6 +83,11 @@ http://www.minuszerodegrees.net/manuals/Toshiba/Tecra/Toshiba%20Tecra%20500CS%20
 
 
 ### Caddy connector
+
+
+![image](https://user-images.githubusercontent.com/38451588/152088139-cfa9002a-d34e-4da5-bc82-4de3726b2fa6.png)
+
+https://www.impactcomputers.com/p000219730.html?cpidx=149892
 
 3M P50LE-050P1-R1-DA
 
