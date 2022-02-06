@@ -76,6 +76,12 @@ http://www.minuszerodegrees.net/manuals/Toshiba/Tecra/Toshiba%20Tecra%20500CS%20
 
 ## Hard Drive (HDD)
 
+- 44 pin, 2.5" IDE
+
+### HDD Pinout
+
+![image](https://user-images.githubusercontent.com/38451588/152668802-fbdf7c36-2f30-4a97-871f-65a40fd79698.png)
+
 
 ### HDD Caddy:
 
@@ -97,10 +103,6 @@ https://www.impactcomputers.com/p000219730.html?cpidx=149892
 https://au.mouser.com/ProductDetail/3M-Electronic-Solutions-Division/P50LE-050P1-R1-DA?qs=sGAEpiMZZMukxKgYRb08uCINFcdpzF42fLJ5JJziHsY=&countrycode=GB&currencycode=GBP
 
 https://www.vogons.org/viewtopic.php?f=46&t=83221
-
-
-Will this work???
-![image](https://user-images.githubusercontent.com/38451588/150326390-4f35dc43-5863-46b4-8c6b-076c8c5fdecb.png)
 
 
 ## Floppy Drive
@@ -246,7 +248,9 @@ http://www.technical-assistance.co.uk/kb/usbmsd98.php
 
 https://archive.org/details/vexp13
 
-https://web.archive.org/web/20140905095056/http://www.dil.u-net.com/vexp.htm    
+https://web.archive.org/web/20140905095056/
+
+http://www.dil.u-net.com/vexp.htm    
 
 # Links
 
