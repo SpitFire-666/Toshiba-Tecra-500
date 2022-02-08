@@ -14,7 +14,6 @@
 
 ![image](https://user-images.githubusercontent.com/38451588/149658189-5b4908ae-adc1-4a07-b025-26ac46b5cd7d.png)
 
-http://www.soundcard-drivers.com/companies/1165.htm?o=2
 
 
 ## Memory (RAM)
@@ -214,9 +213,14 @@ https://support.dynabook.com/support/viewContentDetail?soid=403623
 
 ## Drivers
 
+
+### Sound
+
+http://www.soundcard-drivers.com/companies/1165.htm?o=2
+
 https://support.dynabook.com/support/driversOSResults?freeText=1073769784
 
-USB/Mass storage
+### USB/Mass storage
 
 
 Firstly, you need to install Windows 95 OSR 2.1 or 2.5 for USB support (info). Early releases of Windows 95 doesn't support USB.
@@ -240,6 +244,8 @@ https://www.raymond.cc/blog/how-to-install-usb-mass-storage-device-on-windows-98
 
 
 ## General CD-ROM stuff
+
+- Booting from CD is supposedly supported but no mention in the BIOS - need to verify
 
 https://www.vogons.org/viewtopic.php?t=53631
 http://www.technical-assistance.co.uk/kb/usbmsd98.php
