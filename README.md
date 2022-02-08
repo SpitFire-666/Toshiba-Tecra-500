@@ -19,7 +19,8 @@ http://www.soundcard-drivers.com/companies/1165.htm?o=2
 
 ## Memory (RAM)
 
-Standard with 16 MB of EDO (Extend Data Out) DRAM
+- 16 MB of EDO (Extend Data Out) DRAM soldered in.
+- Uses 100MHz SODIMM 144-pin memory
 
 ![image](https://user-images.githubusercontent.com/38451588/151925595-b2e8cefe-9549-4d37-ac09-46175a5fd46a.png)
 
