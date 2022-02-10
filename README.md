@@ -2,20 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/38451588/149657554-370c6c79-0f64-4849-9399-43ca7a2386b1.png)
 
-![image](https://user-images.githubusercontent.com/38451588/149658048-daef2626-1012-4c47-8db1-eed745b00b9b.png)
-
-![image](https://user-images.githubusercontent.com/38451588/149881415-819709ba-3d60-4094-ad4a-838a0388208a.png)
-
-
-![image](https://user-images.githubusercontent.com/38451588/149657601-70517798-a660-44b8-a358-7ee701416e70.png)
-
-
-![image](https://user-images.githubusercontent.com/38451588/149657621-60c9f394-5c55-41ca-890a-5ab475a44670.png)
-
-![image](https://user-images.githubusercontent.com/38451588/149658189-5b4908ae-adc1-4a07-b025-26ac46b5cd7d.png)
-
-
-
 ## Memory (RAM)
 
 - 16 MB of EDO (Extend Data Out) DRAM soldered in.
@@ -155,7 +141,6 @@ https://forums.bestbuy.com/t5/Computers-Tablets/Power-button-does-nothing-on-a-T
 
 
 
-
 http://www.batteryrefill.com/laptops/toshiba/PA2490U.phtml
 
 https://support.dynabook.com/support/viewContentDetail?soid=107591
@@ -178,8 +163,6 @@ https://ibm.retropc.se/manuals/Toshiba/Tecra/Toshiba%20Tecra%20500CS%20and%20500
 
 https://www.vogons.org/viewtopic.php?f=46&t=80959&p=959863&hilit=pcmcia%20sd#p959863
 
-OS drivers thanks to Ozzuneoj's thread. Then I happened to find mine on ebay right afterwards. Parallel Port Compact Flash card reader for very old PCs
-https://www.vogons.org/viewtopic.php?f=46&t=58779
 
 
 https://www.vogons.org/viewtopic.php?t=53971
@@ -211,7 +194,21 @@ https://support.dynabook.com/support/viewContentDetail?soid=403623
 ![image](https://user-images.githubusercontent.com/38451588/152062226-0042bca4-5f42-475a-ab98-804f77b05413.png)
 
 
-## Drivers
+## Software
+
+| Name |  Desc    | file | URL |
+| -------| ------ | ------------- |--|
+| Toshiba WinUtils for Tecra 500CS, 500CDT | Toshiba Windows (95 & 3.x) Utilities (MaxTime, FnEsse, and HWSetup) for Tecra 500 Series computers. Self-extracting diskette image.  | 500utils.exe  | https://content.us.dynabook.com/content/support/downloads/500utils.exe |
+| Toshiba System LED Application (Win95/98)  |     This software is an optional system component that displays system LED icons for Toshiba notebook computers.  | | |
+|Toshiba Access Panel for Tecra 500 1 of 2 | | | |
+    
+
+
+### Drivers
+
+
+OS drivers thanks to Ozzuneoj's thread. Then I happened to find mine on ebay right afterwards. Parallel Port Compact Flash card reader for very old PCs
+https://www.vogons.org/viewtopic.php?f=46&t=58779
 
 
 ### Sound
@@ -221,7 +218,6 @@ http://www.soundcard-drivers.com/companies/1165.htm?o=2
 https://support.dynabook.com/support/driversOSResults?freeText=1073769784
 
 ### USB/Mass storage
-
 
 Firstly, you need to install Windows 95 OSR 2.1 or 2.5 for USB support (info). Early releases of Windows 95 doesn't support USB.
 I recommend the XUSBSUPP driver either. It even supports Mass Storage.
@@ -262,3 +258,17 @@ http://www.dil.u-net.com/vexp.htm
 # Links
 
 https://www.youtube.com/watch?v=93tbciM-Bcs
+
+
+# Pics
+
+
+![image](https://user-images.githubusercontent.com/38451588/149658048-daef2626-1012-4c47-8db1-eed745b00b9b.png)
+
+![image](https://user-images.githubusercontent.com/38451588/149881415-819709ba-3d60-4094-ad4a-838a0388208a.png)
+
+
+![image](https://user-images.githubusercontent.com/38451588/149657601-70517798-a660-44b8-a358-7ee701416e70.png)
+
+
+![image](https://user-images.githubusercontent.com/38451588/149657621-60c9f394-5c55-41ca-890a-5ab475a44670.png)
