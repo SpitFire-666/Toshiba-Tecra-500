@@ -4,8 +4,23 @@
 
 ## Memory (RAM)
 
-- 16 MB of EDO (Extend Data Out) DRAM soldered in.
-- Uses 100MHz SODIMM 144-pin memory
+- 16 MB of 60ns 3.3v EDO SODIMM (Extend Data Out) soldered in.
+- 144MB max supported RAM
+- Uses 144-pin memory (what type though???)
+
+### Toshiba memory modules
+
+PA2038U: 8MB
+
+PA2039U: 16MB
+
+PA2040U: 32MB
+
+PA2041U: 48MB - https://www.recycledgoods.com/toshiba-pa2041u-48mb-toshiba-laptop-memory-500/
+
+PA2042U: 128MB
+
+
 
 ![image](https://user-images.githubusercontent.com/38451588/151925595-b2e8cefe-9549-4d37-ac09-46175a5fd46a.png)
 
