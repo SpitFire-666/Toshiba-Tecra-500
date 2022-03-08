@@ -1,4 +1,4 @@
-# Toshiba-Tecra-500
+# Toshiba Tecra 500
 
 ![image](https://user-images.githubusercontent.com/38451588/149657554-370c6c79-0f64-4849-9399-43ca7a2386b1.png)
 
@@ -106,6 +106,15 @@ https://au.mouser.com/ProductDetail/3M-Electronic-Solutions-Division/P50LE-050P1
 https://www.vogons.org/viewtopic.php?f=46&t=83221
 
 
+## CD-ROM
+
+- Booting from CD-ROM is NOT supported
+
+https://www.vogons.org/viewtopic.php?t=53631
+http://www.technical-assistance.co.uk/kb/usbmsd98.php
+
+
+
 ## Floppy Drive
 
 https://www.amazon.com/Toshiba-Floppy-PA2656U-Satellite-Notebook/dp/B000YAB7Y4
@@ -186,15 +195,21 @@ https://www.vogons.org/viewtopic.php?t=53971
 
 ## BIOS
 
+### BIOS Version
+
+- v5.90 is latest available/known: https://content.us.dynabook.com/content/support/downloads/4500cv59.exe
+
+WinZIP Self-extracting ZIP file creates bootable BIOS update installation diskette when run under Windows. Also self-extracts under MS-DOS or can be unZIPped using WinZip, PKUnZip, or equivalent.
+
 ### Accessing BIOS
+
+- Shut down the computer using Windows 95 Start/Shutdown/Shut down the computer from the task bar.
+- After the system has powered down, hold down the ESC key while turning on the power. Ignore any beeps.
+- Keep ESC down until you receive a message "Check System. Then press [F1] key." 
 
 https://support.dynabook.com/support/viewContentDetail?contentId=627009
 
 http://www.minuszerodegrees.net/manuals/Toshiba/BIOS/Toshiba_bios.htm
-
-How to boot your Toshiba PC from CD-ROM, LAN, or diskette
-
-https://support.dynabook.com/support/viewContentDetail?soid=403623
 
 
 ## CMOS Battery
@@ -209,6 +224,11 @@ https://support.dynabook.com/support/viewContentDetail?soid=403623
 ![image](https://user-images.githubusercontent.com/38451588/152062226-0042bca4-5f42-475a-ab98-804f77b05413.png)
 
 
+## Sound/Audio
+
+
+
+
 ## Software
 
 | Name |  Desc    | file | URL |
@@ -218,12 +238,10 @@ https://support.dynabook.com/support/viewContentDetail?soid=403623
 |Toshiba Access Panel for Tecra 500 1 of 2 | | | |
     
 
+https://archive.org/details/toshiba-windows-98-upgrade-support-cd-1
+
 
 ### Drivers
-
-
-OS drivers thanks to Ozzuneoj's thread. Then I happened to find mine on ebay right afterwards. Parallel Port Compact Flash card reader for very old PCs
-https://www.vogons.org/viewtopic.php?f=46&t=58779
 
 
 ### Sound
@@ -254,13 +272,6 @@ https://www.raymond.cc/blog/how-to-install-usb-mass-storage-device-on-windows-98
 
 
 
-## General CD-ROM stuff
-
-- Booting from CD is supposedly supported but no mention in the BIOS - need to verify
-
-https://www.vogons.org/viewtopic.php?t=53631
-http://www.technical-assistance.co.uk/kb/usbmsd98.php
-
 
 ## Display
 
@@ -273,6 +284,12 @@ http://www.dil.u-net.com/vexp.htm
 # Links
 
 https://www.youtube.com/watch?v=93tbciM-Bcs
+
+
+- Parallel Port Compact Flash card reader for very old PCs
+
+OS drivers thanks to Ozzuneoj's thread. Then I happened to find mine on ebay right afterwards. Parallel Port Compact Flash card reader for very old PCs
+https://www.vogons.org/viewtopic.php?f=46&t=58779
 
 
 # Pics
