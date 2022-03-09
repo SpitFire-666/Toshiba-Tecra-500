@@ -275,11 +275,25 @@ https://www.raymond.cc/blog/how-to-install-usb-mass-storage-device-on-windows-98
 
 ## Display
 
+
+- Windows 95 C&T 65550 SVGA Driver for use on the 420CS/CDT, 430CDS/CDT, 500CS/CDT, 510CDT, 650CT, 720CDT and 730CDT
+
+http://www.retrospace.net/toshiba/w9565550.exe
+
 https://archive.org/details/vexp13
 
 https://web.archive.org/web/20140905095056/
 
 http://www.dil.u-net.com/vexp.htm    
+
+# Issues
+
+## Sound
+
+The issue was with IRQ conflicts after all, between the Sound board and the onboard COM Ports (including Serial, LPT Printer, and COM ports). Even though they were all disabled in BIOS, Windows was still assigning them IRQ's. Once I disabled all 4 Port entries in device manager, the little sound icon popped right up in the system tray. At 5AM when I was just about ready to give up, I clicked on properties of "COMPUTER" at the VERY TOP of device manager. This allows you to organize your installed devices by assigned IRQ's, and sure enough there were multiple devices sharing the same IRQ's between the Sound card and onboard Ports. So make sure you disable these 4 Port entries before installing the Yamaha Drivers.
+
+
+I've been having this same problem on a 445CDX. You only have to disable irda. 
 
 # Links
 
