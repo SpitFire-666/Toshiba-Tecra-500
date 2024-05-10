@@ -114,7 +114,6 @@ https://www.vogons.org/viewtopic.php?t=53631
 http://www.technical-assistance.co.uk/kb/usbmsd98.php
 
 
-
 ## Floppy Drive
 
 https://www.amazon.com/Toshiba-Floppy-PA2656U-Satellite-Notebook/dp/B000YAB7Y4
@@ -185,7 +184,6 @@ https://www.vogons.org/viewtopic.php?f=46&t=80959&p=959863&hilit=pcmcia%20sd#p95
 https://www.vogons.org/viewtopic.php?t=53971
 
 
-
 ## BIOS
 
 ### BIOS Version
@@ -225,6 +223,16 @@ Driver:
 http://www.soundcard-drivers.com/companies/1165.htm?o=2
 
 https://support.dynabook.com/support/driversOSResults?freeText=1073769784
+
+![image](https://github.com/SpitFire-666/Toshiba-Tecra-500/assets/38451588/a9ba120f-9b8d-48ed-b960-55839b5e2b6b)
+
+![image](https://github.com/SpitFire-666/Toshiba-Tecra-500/assets/38451588/94e0c518-82e4-4888-b541-941929e26311)
+
+![image](https://github.com/SpitFire-666/Toshiba-Tecra-500/assets/38451588/e112df83-4ffb-41a7-90c7-b2ce13f2f52c)
+
+### Windows 98 device manager
+
+![image](https://github.com/SpitFire-666/Toshiba-Tecra-500/assets/38451588/9de5eb8d-d8e0-4808-8440-bc364d03f8a7)
 
 
 ## Software
