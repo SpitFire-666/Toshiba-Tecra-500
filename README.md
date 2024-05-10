@@ -147,17 +147,10 @@ Procedure
 
 https://support.dynabook.com/support/driversOSResults?freeText=1073769784
 
-
-
-
 Try to run SETYMF before Windows loads : http://www.tmeeco.eu/TKAYBSC
 It sets up YMF71x chips completely and hopefully windows will then play along too, assuming the laptop isn't using YMF701, which is a different beast that my util is very unlikely to support.
 
-
-
-
 I've been having this same problem on a 445CDX. You only have to disable irda. The other ports all work with sound. The 445 also works and boots from 16gb partitions.
-
 
 https://m.majorgeeks.com/files/details/yamaha_opl3_sax_reference_driver.html
 
@@ -224,9 +217,14 @@ http://www.minuszerodegrees.net/manuals/Toshiba/BIOS/Toshiba_bios.htm
 ![image](https://user-images.githubusercontent.com/38451588/152062226-0042bca4-5f42-475a-ab98-804f77b05413.png)
 
 
-## Sound/Audio
+## 🔊 Sound/Audio
 
+Sound System: Crystal Semiconductor CS4232, Yamaha OPL3 (YMF262), Yamaha D/A converter (YAC512)
 
+Driver: 
+http://www.soundcard-drivers.com/companies/1165.htm?o=2
+
+https://support.dynabook.com/support/driversOSResults?freeText=1073769784
 
 
 ## Software
@@ -240,15 +238,6 @@ http://www.minuszerodegrees.net/manuals/Toshiba/BIOS/Toshiba_bios.htm
 
 https://archive.org/details/toshiba-windows-98-upgrade-support-cd-1
 
-
-### Drivers
-
-
-### Sound
-
-http://www.soundcard-drivers.com/companies/1165.htm?o=2
-
-https://support.dynabook.com/support/driversOSResults?freeText=1073769784
 
 ### USB/Mass storage
 
