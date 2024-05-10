@@ -72,8 +72,13 @@ Internal Memory Slot (One only) Yes
 https://support.dynabook.com/support/staticContentDetail?contentId=638383
 
 
-## Maintenance Manual
-http://www.minuszerodegrees.net/manuals/Toshiba/Tecra/Toshiba%20Tecra%20500CS%20and%20500CDT%20-%20Maintenance%20Manual.pdf
+## 📖Documentation
+
+[Maintenance Manual](http://www.minuszerodegrees.net/manuals/Toshiba/Tecra/Toshiba%20Tecra%20500CS%20and%20500CDT%20-%20Maintenance%20Manual.pdf)
+
+[User Manual](https://www.minuszerodegrees.net/manuals/Toshiba/Tecra/Toshiba%20Tecra%20500CS%20and%20500CDT%20-%20User%20Manual.pdf)
+
+[Spec Sheet](https://www.manualslib.com/manual/490099/Toshiba-Tecra-500cdt.html)
 
 ## Hard Drive (HDD)
 
@@ -143,30 +148,16 @@ Procedure
 
     Toshiba has developed a PCI IrDA driver to support IrDA data transferring, IrDA networking and IrDA printing for Windows 95. Download IRPCI95.EXE (V 1.0, 6-2-98) from the Toshiba Web Site.
 
-
 https://support.dynabook.com/support/driversOSResults?freeText=1073769784
 
-Try to run SETYMF before Windows loads : http://www.tmeeco.eu/TKAYBSC
-It sets up YMF71x chips completely and hopefully windows will then play along too, assuming the laptop isn't using YMF701, which is a different beast that my util is very unlikely to support.
-
-I've been having this same problem on a 445CDX. You only have to disable irda. The other ports all work with sound. The 445 also works and boots from 16gb partitions.
 
 https://m.majorgeeks.com/files/details/yamaha_opl3_sax_reference_driver.html
 
 https://forums.bestbuy.com/t5/Computers-Tablets/Power-button-does-nothing-on-a-Toshiba-TECRA-500CS/td-p/906753
 
-
-
 http://www.batteryrefill.com/laptops/toshiba/PA2490U.phtml
 
 https://support.dynabook.com/support/viewContentDetail?soid=107591
-
-
-
-https://www.manualslib.com/manual/490099/Toshiba-Tecra-500cdt.html
-
-https://ibm.retropc.se/manuals/Toshiba/Tecra/Toshiba%20Tecra%20500CS%20and%20500CDT%20-%20Maintenance%20Manual.pdf
-
 
 ## Transferring files/data
 - Track down the multibay floppy drive to insert the drivers and use some cardbus storage
@@ -179,7 +170,7 @@ https://ibm.retropc.se/manuals/Toshiba/Tecra/Toshiba%20Tecra%20500CS%20and%20500
 
 https://www.vogons.org/viewtopic.php?f=46&t=80959&p=959863&hilit=pcmcia%20sd#p959863
 
-
+## 💿 CD Drive
 
 https://www.vogons.org/viewtopic.php?t=53971
 
@@ -235,6 +226,11 @@ https://support.dynabook.com/support/driversOSResults?freeText=1073769784
 ![image](https://github.com/SpitFire-666/Toshiba-Tecra-500/assets/38451588/9de5eb8d-d8e0-4808-8440-bc364d03f8a7)
 
 
+Try to run SETYMF before Windows loads : http://www.tmeeco.eu/TKAYBSC
+It sets up YMF71x chips completely and hopefully windows will then play along too, assuming the laptop isn't using YMF701, which is a different beast that my util is very unlikely to support.
+
+You only have to disable irda. The other ports all work with sound.
+
 ## Software
 
 | Name |  Desc    | file | URL |
@@ -246,15 +242,12 @@ https://support.dynabook.com/support/driversOSResults?freeText=1073769784
 
 https://archive.org/details/toshiba-windows-98-upgrade-support-cd-1
 
-
 ### USB/Mass storage
 
-Firstly, you need to install Windows 95 OSR 2.1 or 2.5 for USB support (info). Early releases of Windows 95 doesn't support USB.
-I recommend the XUSBSUPP driver either. It even supports Mass Storage.
+Firstly, you need to install Windows 95 OSR 2.1 or 2.5 for USB support. Early releases of Windows 95 doesn't support USB.
+I recommend the [XUSBSUPP](https://archive.org/details/XUSBSUPP) driver . It even supports Mass Storage.
 
-http://lonecrusader.x10host.com/files/XUSBSUPP.ZIP
-
-http://toastytech.com/files/cruzerwin95.html
+[USB Flash Drive driver for Windows 95 OSR/2.1](http://toastytech.com/files/cruzerwin95.html)
 
 http://download.cnet.com/usb2-0-driver-for-win98-exe/3000-18493_4-151166.html
 
@@ -262,40 +255,26 @@ http://www.wintricks.it/faq/usbpen98_6.html
 
 http://www.flashbay.ca/support/faq/windows98se-usb-drive-driver
 
-
 https://oemdrivers.com/usb-windows-98-98se-mass-storage-device-drivers
 
 https://www.raymond.cc/blog/how-to-install-usb-mass-storage-device-on-windows-98/
 
 
+## 🖥 Display
 
-
-## Display
-
-
-- Windows 95 C&T 65550 SVGA Driver for use on the 420CS/CDT, 430CDS/CDT, 500CS/CDT, 510CDT, 650CT, 720CDT and 730CDT
-
-http://www.retrospace.net/toshiba/w9565550.exe
+[Windows 95 C&T 65550 SVGA Driver for use on the 420CS/CDT, 430CDS/CDT, 500CS/CDT, 510CDT, 650CT, 720CDT and 730CDT](https://archive.org/details/w9565550)
 
 https://archive.org/details/vexp13
-
-https://web.archive.org/web/20140905095056/
-
-http://www.dil.u-net.com/vexp.htm    
 
 # Issues
 
 ## Sound
 
-The issue was with IRQ conflicts after all, between the Sound board and the onboard COM Ports (including Serial, LPT Printer, and COM ports). Even though they were all disabled in BIOS, Windows was still assigning them IRQ's. Once I disabled all 4 Port entries in device manager, the little sound icon popped right up in the system tray. At 5AM when I was just about ready to give up, I clicked on properties of "COMPUTER" at the VERY TOP of device manager. This allows you to organize your installed devices by assigned IRQ's, and sure enough there were multiple devices sharing the same IRQ's between the Sound card and onboard Ports. So make sure you disable these 4 Port entries before installing the Yamaha Drivers.
-
-
-I've been having this same problem on a 445CDX. You only have to disable irda. 
+The issue was with IRQ conflicts after all, between the Sound board and the onboard COM Ports (including Serial, LPT Printer, and COM ports). Even though they were all disabled in BIOS, Windows was still assigning them IRQs. Once I disabled all 4 Port entries in device manager, the little sound icon popped right up in the system tray. At 5AM when I was just about ready to give up, I clicked on properties of "COMPUTER" at the VERY TOP of device manager. This allows you to organize your installed devices by assigned IRQ's, and sure enough there were multiple devices sharing the same IRQ's between the Sound card and onboard Ports. So make sure you disable these 4 Port entries before installing the Yamaha Drivers.
 
 # Links
 
 https://www.youtube.com/watch?v=93tbciM-Bcs
-
 
 - Parallel Port Compact Flash card reader for very old PCs
 
@@ -305,11 +284,9 @@ https://www.vogons.org/viewtopic.php?f=46&t=58779
 
 # Pics
 
-
 ![image](https://user-images.githubusercontent.com/38451588/149658048-daef2626-1012-4c47-8db1-eed745b00b9b.png)
 
 ![image](https://user-images.githubusercontent.com/38451588/149881415-819709ba-3d60-4094-ad4a-838a0388208a.png)
-
 
 ![image](https://user-images.githubusercontent.com/38451588/149657601-70517798-a660-44b8-a358-7ee701416e70.png)
 
